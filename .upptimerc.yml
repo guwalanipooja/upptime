@@ -8,8 +8,8 @@ sites:
     url: https://mindfool.in/up
 
 status-website:
-  # Since you are using guwalanipooja/uptime, you MUST uncomment baseUrl
-  baseUrl: /uptime 
+  # Since you are using guwalanipooja/upptime, you MUST uncomment baseUrl
+  # baseUrl: /upptime
   name: Neosisly Status
   introTitle: "Neosisly Uptime Monitor"
   introMessage: "Real-time monitoring for the Neosisly Rails 8 production environment."
