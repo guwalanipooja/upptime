@@ -9,7 +9,7 @@ sites:
 
 status-website:
   # Since you are using guwalanipooja/upptime, you MUST uncomment baseUrl
-  # baseUrl: /upptime
+  baseUrl: /upptime
   name: Neosisly Status
   introTitle: "Neosisly Uptime Monitor"
   introMessage: "Real-time monitoring for the Neosisly Rails 8 production environment."
