@@ -4,17 +4,17 @@
     "url": "https://mindfool.in/up",
     "icon": "https://icons.duckduckgo.com/ip3/mindfool.in.ico",
     "slug": "neosisly-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9564,
-    "timeDay": 16018,
-    "timeWeek": 8290,
-    "timeMonth": 9564,
-    "timeYear": 9564,
+    "time": 9238,
+    "timeDay": 8558,
+    "timeWeek": 7391,
+    "timeMonth": 9238,
+    "timeYear": 9238,
     "dailyMinutesDown": {}
   }
 ]
