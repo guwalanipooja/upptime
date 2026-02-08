@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mindfool.in.ico",
     "slug": "neosisly-production",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 9238,
-    "timeDay": 8558,
-    "timeWeek": 7391,
-    "timeMonth": 9238,
-    "timeYear": 9238,
-    "dailyMinutesDown": {}
+    "uptime": "96.78%",
+    "uptimeDay": "27.11%",
+    "uptimeWeek": "89.59%",
+    "uptimeMonth": "96.78%",
+    "uptimeYear": "96.78%",
+    "time": 8924,
+    "timeDay": 932,
+    "timeWeek": 4991,
+    "timeMonth": 8924,
+    "timeYear": 8924,
+    "dailyMinutesDown": {
+      "2026-02-08": 199,
+      "2026-02-07": 850
+    }
   }
 ]
